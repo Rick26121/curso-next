@@ -56,7 +56,7 @@ export const Sidebar = () => {
             />
           </span>
           <span className="text-sm md:text-base font-bold">
-            Fernando Herrera
+            Rick 
           </span>
         </a>
       </div>
